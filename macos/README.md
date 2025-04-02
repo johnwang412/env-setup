@@ -1,5 +1,4 @@
 # Overview
-Env setup for desktop
+Env setup for macos
 
-# Instructions
-## run install.sh and setup.sh
+run `setup.sh`

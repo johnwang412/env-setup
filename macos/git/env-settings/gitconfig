@@ -1,0 +1,21 @@
+[user]
+  name = John Wang
+  email = jue@alumni.cmu.edu
+[alias]
+  st = status
+  br = branch
+  co = checkout
+  cl = remote prune origin
+  cq = commit --no-verify
+  pom = pull origin master
+  prom = pull --rebase origin master
+[core]
+  editor = vim
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
+

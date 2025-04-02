@@ -1,3 +1,0 @@
-# Add ssh setup here like adding to keychain, etc... 
-# e.g. eval \$(ssh-agent)
-# e.g. ssh-add ~/.ssh/github-id-rsa
